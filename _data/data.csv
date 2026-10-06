@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-eScience center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566998,4.9569812,"October 13 - 14, 2026",9:30 - 17:00 CEST,2026-10-12T22:00:00Z,2026-10-13T22:00:00Z,"Johan Hidding, Leon Oostrum",,ds,ds-parallel,Parallel porgramming with python,2026-10-13-ds-parallel,NA
+eScience center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566998,4.9569812,"October 13 - 14, 2026",9:30 - 17:00 CEST,2026-10-12T22:00:00Z,2026-10-13T22:00:00Z,"Johan Hidding, Leon Oostrum",,ds,ds-parallel,Parallel programming with python,2026-10-13-ds-parallel,NA
